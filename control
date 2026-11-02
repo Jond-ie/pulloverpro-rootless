@@ -1,0 +1,12 @@
+Package: com.johndie.pulloverpro-rootless
+Name: PullOver Pro (Rootless)
+Version: 3.0.0~beta1
+Architecture: iphoneos-arm64
+Description: Pin any app to a small handle on the side of the screen and pull it over whatever you're doing. Rootless port of c1d3r's PullOver Pro (GPL-3.0), rebuilt for iOS 15-27.
+Maintainer: Jond-ie
+Author: c1d3r (port: Jond-ie)
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>= 15.0), firmware (<< 28.0)
+Recommends: preferenceloader
+Depiction: https://jond-ie.github.io/repo/depictions/com.johndie.pulloverpro-rootless.html
+SileoDepiction: https://jond-ie.github.io/repo/depictions/com.johndie.pulloverpro-rootless.json
