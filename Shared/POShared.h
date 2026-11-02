@@ -2,7 +2,7 @@
 #define PODomain @"com.johndie.pulloverpro-rootless"
 #define POStateDomain @"com.johndie.pulloverpro-rootless.state"   // handle position, last pinned app
 #define POPrefsChangedNotification "com.johndie.pulloverpro-rootless/changed"
-// Commands other tweaks can post (Darwin notifications), e.g. PullOver Pro for Triggr:
+// Commands other tweaks can post (Darwin notifications):
 // pull the pinned app over, close it, or switch between the two.
 #define POOpenNotification "com.johndie.pulloverpro-rootless/open"
 #define POCloseNotification "com.johndie.pulloverpro-rootless/close"

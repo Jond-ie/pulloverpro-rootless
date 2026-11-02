@@ -6,7 +6,7 @@ Pin any app to a small handle on the side of the screen and pull it over whateve
 - Long-press the handle for QuickSwitch: recent apps or favorites. Drag one to the middle to open it full screen.
 - Settings apply right away, no respring.
 
-Get it from the [pwnapple repo](https://jond-ie.github.io/repo/). Rootless and RootHide jailbreaks, iOS 15 to 27. Add [PullOver Pro for Triggr](https://jond-ie.github.io/repo/depictions/com.johndie.pulloverpro-triggr.html) to pull over or close your app with any Triggr trigger.
+Get it from the [pwnapple repo](https://jond-ie.github.io/repo/). Rootless and RootHide jailbreaks, iOS 15 to 27.
 
 ## Building
 
